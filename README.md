@@ -16,5 +16,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sa11k"><img src="https://avatars.githubusercontent.com/u/63536606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sa11k</b><br></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/wonsyn"><img src="https://avatars.githubusercontent.com/u/82020255?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wonsyn</b><br></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seokchain"><img src="https://avatars.githubusercontent.com/u/98997009?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seokchain</b><br></sub></a><br /></td>
   </tr>
 </table>
