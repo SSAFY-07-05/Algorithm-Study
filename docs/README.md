@@ -2,20 +2,18 @@
 
 #### 폴더 구조
 - `src/{알고리즘출처}/{깃허브ID}/{문제 번호}/[mM]ain.${type}` 형식입니다.  
-- 예시 : `src/BaekJoon/Dltmd202/1001/Main.java`
-- 예시 : `src/Programmers/Dltmd202/1/main.cpp`
-- 예시 : `src/LeetCode/Dltmd202/42748/main.py`
+- 예시 : `src/BaekJoon/sa11k/1001/Main.java`
 
 #### 초기설정 - clone
 ```bash
-git clone https://github.com/Kut-PS-Study/Algorithm-Conquerors.git
+git clone https://github.com/SSAFY-07-05/Algorithm-Study
 git branch -M {깃허브ID}
 git push -u origin {깃허브ID}
 ```
 
 #### 코드 올리기
 ```bash
-git add {matcher}
+git add {matcher - 보통 .(전체) 많이 씀}
 git commit -m "Feat: Add solution of #id"
 git pull origin master
 git push 
@@ -34,11 +32,6 @@ git push
 * PR 템플릿에 맞춰 작성하기
 ```markdown
 ## #{id} 문제풀이
-
-## 세부 사항
-- [ ] #{id} `상`
-- [ ] #{id} `중`
-- [ ] #{id} `하`
 
 ## 관련 이슈
 - #{id}
