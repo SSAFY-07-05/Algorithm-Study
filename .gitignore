@@ -41,4 +41,4 @@
 */*/*/*/*.tar.gz
 */*/*/*/*.rar
 */*/*/*/hs_err_pid*
-*/*/*/*/replay_pid*
+*/*/*/*/replay_pid*.DS_Store
