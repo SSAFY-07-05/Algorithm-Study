@@ -15,7 +15,7 @@ git push -u origin {깃허브ID}
 ```bash
 git add {matcher - 보통 .(전체) 많이 씀}
 git commit -m "Feat: Add solution of #id"
-git pull origin master
+git pull origin main
 git push 
 ```
 
@@ -25,7 +25,7 @@ git push
 ![PR 만들기](./github/PR/1.png)
 
 
-* `계정 브랜치`에서 `master`로 `Pull request`
+* `계정 브랜치`에서 `main`로 `Pull request`
 
 ![PR 만들기](./github/PR/2.png)
 
