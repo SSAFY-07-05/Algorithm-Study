@@ -38,7 +38,6 @@ public class Main {
 			if(VPS == false) System.out.println("NO");		// VPS에 맞게 출력
 			else System.out.println("YES");
 		}
-		
 		br.close();
 	}
 
