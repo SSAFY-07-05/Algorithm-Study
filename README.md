@@ -15,7 +15,8 @@
 | 백준     | 2309     |2022-02-07|[일곱난쟁이](https://www.acmicpc.net/problem/2309) |  🟩   |    🟩   |    🟩 |
 | 백준     | 9012     |2022-02-08|[괄호](https://www.acmicpc.net/problem/9012) |  🟩  |  🟩   | 🟩   |
 | 백준     | 2304     |2022-02-09|[창고 다각형](https://www.acmicpc.net/problem/2304) |  🟩 | 🟩     | 🟩  |
-| 백준     | 2477     |2022-02-10|[참외밭](https://www.acmicpc.net/problem/2477) | 🟩 |      | 🟩  |
+| 백준     | 2477     |2022-02-10|[참외밭](https://www.acmicpc.net/problem/2477) | 🟩 |  🟩     | 🟩  |
+| 백준     | 2116     |2022-02-11|[주사위 쌓기](https://www.acmicpc.net/problem/2116) |  🟩    |      |     |
 
 ## 🙋🏻‍♂️ Contributors
 
