@@ -17,6 +17,7 @@
 | 백준     | 2304     |2022-02-09|[창고 다각형](https://www.acmicpc.net/problem/2304) |  🟩 | 🟩     | 🟩  |
 | 백준     | 2477     |2022-02-10|[참외밭](https://www.acmicpc.net/problem/2477) | 🟩 |  🟩     | 🟩  |
 | 백준     | 2116     |2022-02-11|[주사위 쌓기](https://www.acmicpc.net/problem/2116) |  🟩    | 🟩     |  🟩 |
+| 백준     | 2491     |2022-02-14|[수열](https://www.acmicpc.net/problem/2491) |    |  | |
 
 ## 🙋🏻‍♂️ Contributors
 
