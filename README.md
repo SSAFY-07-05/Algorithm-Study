@@ -20,7 +20,7 @@
 | 백준     | 2491     |2022-02-14|[수열](https://www.acmicpc.net/problem/2491) |  🟩  |  🟩   |  🟩    |
 | 백준     | 2559     |2022-02-15|[수열](https://www.acmicpc.net/problem/2559) | 🟩  |  🟩  |  🟩   |
 | 백준     | 2527     |2022-02-16|[직사각형](https://www.acmicpc.net/problem/2527) | 🟩 | 🟩    | 🟩  |
-| 백준     | 2564     |2022-02-17|[경비원](https://www.acmicpc.net/problem/2564) |   |    |   |
+| 백준     | 2564     |2022-02-17|[경비원](https://www.acmicpc.net/problem/2564) |   |    | 🟩  |
 | 백준     | 2578     |2022-02-18|[빙고](https://www.acmicpc.net/problem/2578) |   |    |   |
 
 ## 🙋🏻‍♂️ Contributors
