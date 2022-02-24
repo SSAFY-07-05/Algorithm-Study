@@ -23,7 +23,7 @@
 | 백준     | 2564     |2022-02-17|[경비원](https://www.acmicpc.net/problem/2564) |   🟩 |   🟩 | 🟩  |
 | 백준     | 2578     |2022-02-22|[빙고](https://www.acmicpc.net/problem/2578) |  🟩  |  🟩   | 🟩  |
 | 백준     | 2605     |2022-02-23|[줄 세우기](https://www.acmicpc.net/problem/2605) |   🟩 | 🟩  | 🟩 |
-| 백준     | 2628     |2022-02-24|[종이자르기](https://www.acmicpc.net/problem/2628) |   |  |  |
+| 백준     | 2628     |2022-02-24|[종이자르기](https://www.acmicpc.net/problem/2628) |   |  | 🟩 |
 
 ## 🙋🏻‍♂️ Contributors
 
