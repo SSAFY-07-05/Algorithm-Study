@@ -30,7 +30,7 @@
 | 백준     | 16234    |2022-03-07|[인구이동](https://www.acmicpc.net/problem/16234) |🟩|🟩|🟩|
 | 백준     | 14891    |2022-03-08|[톱니바퀴](https://www.acmicpc.net/problem/14891) |🟩|🟩|🟩|
 | 백준     | 14503    |2022-03-10|[로봇청소기](https://www.acmicpc.net/problem/14503) |🟩|🟩|🟩|
-| 백준     | 20055    |2022-03-11|[컨베이어 벨트](https://www.acmicpc.net/problem/20055) ||🟩|🟩|
+| 백준     | 20055    |2022-03-11|[컨베이어 벨트](https://www.acmicpc.net/problem/20055) |🟩|🟩|🟩|
 
 ## 🙋🏻‍♂️ Contributors
 
