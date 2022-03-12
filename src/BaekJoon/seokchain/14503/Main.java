@@ -1,13 +1,11 @@
-package week_5;
-
 import java.io.*;
 import java.util.*;
 
-public class Main_bj_14503_로봇청소기_대전_5반_윤석찬 {
+public class Main {
 
 	public static void main(String args[]) throws Exception {
 
-        System.setIn(new FileInputStream("res/input_14503.txt"));
+        //System.setIn(new FileInputStream("res/input_14503.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
