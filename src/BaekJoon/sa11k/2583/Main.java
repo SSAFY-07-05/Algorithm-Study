@@ -5,7 +5,7 @@ public class Main {
     static int M, N, K, count, area;
     static int[][] grid;
     static int[] dx = {0, 1, 0,-1}; // 상 우 하 좌
-    static int[] dy = {-1, 0, 1, 0};
+    static int[] dy = {-1, 0, 1, 0}; // 상 우 하 좌
 
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
