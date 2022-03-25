@@ -38,6 +38,7 @@
 | 백준     | 14890    |2022-03-22|[경사로](https://www.acmicpc.net/problem/14890) |🟩|🟩|🟩|
 | 백준     | 20057    |2022-03-23|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |🟩|🟩|🟩|
 | 백준     | 2583     |2022-03-24|[영역 구하기](https://www.acmicpc.net/problem/2583) |🟩|🟩|🟩|
+| 백준     | 18429    |2022-03-28|[근손실](https://www.acmicpc.net/problem/18429) ||||
 
 ## 🙋🏻‍♂️ Contributors
 
