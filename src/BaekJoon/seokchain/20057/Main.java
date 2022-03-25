@@ -34,7 +34,7 @@ public class Main {
         while (true) {
             if (k % 2 == 1)
                 for (int d = 0; d < 2; d++) {
-                    for (int i = 0; i < k; i++) {
+                    for (int i = 0; i < k; i++) { // 서, 남
                         r = r + dy[d];
                         c = c + dx[d];
                         wind(r, c, d);
@@ -42,7 +42,7 @@ public class Main {
                     }
                 }
             else {
-                for (int d = 2; d < 4; d++) {
+                for (int d = 2; d < 4; d++) { // 동, 북
                     for (int i = 0; i < k; i++) {
                         r = r + dy[d];
                         c = c + dx[d];
@@ -78,17 +78,17 @@ public class Main {
                 int cN = c + dc[type][i];
 
                 if(rN<N && rN>=0 && cN<N && cN>=0) {
-                    map[rN][cN] = map[rN][cN] + (int)(sand * arr[i]);
-                    sum += (int)(sand * arr[i]);
-                } else {
-                    res += (int)(sand * arr[i]);
+                    map[rN][cN] = map[rN][cN] + (int)(sand * arr[i]); // 기존값 + 흩날린값
+                    sum += (int)(sand * arr[i]); // a구역 값을 구하기 위해 따로 값을 저장해둔다.
+                } else { // 범위 밖 
+                    res += (int)(sand * arr[i]); 
                     sum += (int)(sand * arr[i]);
                 }
             }
 
             int rN = r+dr[type][9];
             int cN = c+dc[type][9];
-            if(rN<N && rN>=0 && cN<N && cN>=0) {
+            if(rN<N && rN>=0 && cN<N && cN>=0) { // a가 적힌 구역 값 구하기
                 map[rN][cN] = map[rN][cN] + sand - sum;
             } else res += sand - sum;
         }
