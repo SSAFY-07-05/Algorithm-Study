@@ -39,7 +39,7 @@
 | 백준     | 20057    |2022-03-23|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) |🟩|🟩|🟩|
 | 백준     | 2583     |2022-03-24|[영역 구하기](https://www.acmicpc.net/problem/2583) |🟩|🟩|🟩|
 | 백준     | 18429    |2022-03-28|[근손실](https://www.acmicpc.net/problem/18429) |🟩|🟩|🟩|
-| 백준     | 1600     |2022-03-31|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |🟩||🟩|
+| 백준     | 1600     |2022-03-31|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |🟩|🟩|🟩|
 | 백준     | 15685    |2022-04-01|[드래곤 커브](https://www.acmicpc.net/problem/15685) ||||
 
 ## 🙋🏻‍♂️ Contributors
