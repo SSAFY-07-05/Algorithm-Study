@@ -41,6 +41,8 @@
 | 백준     | 18429    |2022-03-28|[근손실](https://www.acmicpc.net/problem/18429) |🟩|🟩|🟩|
 | 백준     | 1600     |2022-03-31|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |🟩|🟩|🟩|
 | 백준     | 15685    |2022-04-01|[드래곤 커브](https://www.acmicpc.net/problem/15685) |🟩|🟩|🟩|
+| SWEA     | 2112    |2022-04-04|[보호필름](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) ||||
+
 
 ## 🙋🏻‍♂️ Contributors
 
