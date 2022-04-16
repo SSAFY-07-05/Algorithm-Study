@@ -47,7 +47,8 @@
 | 백준     | 2573    |2022-04-11|[빙산](https://www.acmicpc.net/problem/2573) |🟩|🟩|🟩|
 | 백준     | 4963    |2022-04-12|[섬의 개수](https://www.acmicpc.net/problem/4963) |🟩|🟩|🟩|
 | 백준     | 17281    |2022-04-13|[⚾](https://www.acmicpc.net/problem/17281) |🟩|🟩|🟩|
-| 백준     | 1916    |2022-04-14|[최소비용 구하기](https://www.acmicpc.net/problem/1916) ||||
+| 백준     | 1916    |2022-04-14|[최소비용 구하기](https://www.acmicpc.net/problem/1916) |🟩|🟩|🟩|
+| 백준     | 5972    |2022-04-15|[택배 배송](https://www.acmicpc.net/problem/5972) ||🟩||
 
 
 ## 🙋🏻‍♂️ Contributors
