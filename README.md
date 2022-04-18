@@ -49,6 +49,7 @@
 | 백준     | 17281    |2022-04-13|[⚾](https://www.acmicpc.net/problem/17281) |🟩|🟩|🟩|
 | 백준     | 1916    |2022-04-14|[최소비용 구하기](https://www.acmicpc.net/problem/1916) |🟩|🟩|🟩|
 | 백준     | 5972    |2022-04-18|[택배 배송](https://www.acmicpc.net/problem/5972) |🟩|🟩|🟩|
+| 백준     | 19236    |2022-04-19|[청소년 상어](https://www.acmicpc.net/problem/19236) ||||
 
 
 ## 🙋🏻‍♂️ Contributors
