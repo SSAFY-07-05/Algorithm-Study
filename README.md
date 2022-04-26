@@ -53,7 +53,8 @@
 | 백준     | 1520    |2022-04-20|[내리막길](https://www.acmicpc.net/problem/1520) |🟩|🟩|🟩|
 | 백준     | 11066    |2022-04-21|[파일 합치기](https://www.acmicpc.net/problem/11066) |🟩|🟩|🟩|
 | 백준     | 16236    |2022-04-25|[아기 상어](https://www.acmicpc.net/problem/16236) |🟩|🟩|🟩|
-| 백준     | 2629    |2022-04-26|[양팔저울](https://www.acmicpc.net/problem/2629) ||||
+| 백준     | 2629    |2022-04-26|[양팔저울](https://www.acmicpc.net/problem/2629) |🟩|🟩|🟩|
+| 백준     | 11052    |2022-04-27|[카드 구매하기](https://www.acmicpc.net/problem/11052) ||||
 
 
 ## 🙋🏻‍♂️ Contributors
