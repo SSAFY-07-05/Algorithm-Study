@@ -55,6 +55,7 @@
 | 백준     | 16236    |2022-04-25|[아기 상어](https://www.acmicpc.net/problem/16236) |🟩|🟩|🟩|
 | 백준     | 2629    |2022-04-26|[양팔저울](https://www.acmicpc.net/problem/2629) |🟩|🟩|🟩|
 | 백준     | 11052    |2022-04-27|[카드 구매하기](https://www.acmicpc.net/problem/11052) |🟩|🟩|🟩|
+| 백준     | 14500    |2022-04-28|[테트로미노](https://www.acmicpc.net/problem/14500) ||||
 
 
 ## 🙋🏻‍♂️ Contributors
