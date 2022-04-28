@@ -1,11 +1,7 @@
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
-public class Main_bj_2629 {
+public class Main {
 
         static int N;
         static int arr[];
