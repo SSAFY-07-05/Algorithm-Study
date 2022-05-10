@@ -57,7 +57,7 @@
 | 백준     | 11052    |2022-04-27|[카드 구매하기](https://www.acmicpc.net/problem/11052) |🟩|🟩|🟩|
 | 백준     | 14500    |2022-04-28|[테트로미노](https://www.acmicpc.net/problem/14500) |🟩|🟩|🟩|
 | 백준     | 17142   |2022-05-09|[연구소 3](https://www.acmicpc.net/problem/17142) |🟩|🟩|🟩|
-| 백준     | 1922   |2022-05-10|[네트워크 연결](https://www.acmicpc.net/problem/1922) ||||
+| 백준     | 1922   |2022-05-10|[네트워크 연결](https://www.acmicpc.net/problem/1922) |||🟩|
 
 
 ## 🙋🏻‍♂️ Contributors
