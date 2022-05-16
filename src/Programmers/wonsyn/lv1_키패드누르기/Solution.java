@@ -1,7 +1,6 @@
 package a0511_programmers_kakao_lv1_키패드누르기;
 
 class Solution {
-	int[][] del = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
     int[][] loc = {{3, 1}, 
     		{0, 0}, {0, 1}, {0, 2}, 
     		{1, 0}, {1, 1}, {1, 2},  
